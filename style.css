@@ -212,18 +212,6 @@ body {
   z-index: 1000;
 }
 
-/* #content nav::after {
-  content: "";
-  position: absolute;
-  width: 40px;
-  height: 40px;
-  bottom: -40px;
-  background-color: var(--blue);
-  left: 0;
-  border-radius: 50%;
-  box-shadow: -20px -20px 0 var(--light);
-} */
-
 #content nav a {
   color: var(--dark);
 }
